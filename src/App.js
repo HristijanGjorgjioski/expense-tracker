@@ -41,7 +41,7 @@ const App = () => {
                 <ErrorPanel />
             </PushToTalkButtonContainer>
         </div>
-    )
+    );
 }
 
 export default App;
